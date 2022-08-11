@@ -1,0 +1,23 @@
+body {
+
+    font-family: arial;
+}
+
+p {
+    font-size: 14;
+    text-align: justify;
+}
+
+h1 {
+    color: red 
+}
+
+img {
+    box-shadow: 7px 7px 14px rgb(28, 28, 29);
+    border-radius: 10px;
+}
+
+.linha {
+    border-top: solid 1px rgb(189, 189, 189);
+    text-align: center;
+} 
